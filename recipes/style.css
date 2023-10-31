@@ -1,0 +1,21 @@
+body{
+    background-color: #ffb6c1;
+}
+p{
+    color: #2F195F;
+    font-family: serif;
+    font-size: 25px;
+}
+h1{
+    color: #48ACF0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: auto;
+}
+h2{
+    color: #2DD881;
+    font-family: 'Courier New', Courier, monospace;
+}
