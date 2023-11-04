@@ -14,8 +14,17 @@ h1{
 img{
     width: 250px;
     height: auto;
+    margin-left: 530px;
 }
 h2{
     color: #2DD881;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 115px;
+}
+#flow{
+    width: 50%;
+}
+ol{
+    border: #2DD881 solid 0px;
+    width: 25%;
 }
